@@ -317,7 +317,7 @@ settings.tk-multi-loader2.motionbuilder:
 # alias
 settings.tk-multi-loader2.alias:
   action_mappings:
-    Alias File: [import]
+    Alias File: [import, import_as_reference]
     Wref File: [reference]
     Igs File: [import]
     Stp File: [import]
