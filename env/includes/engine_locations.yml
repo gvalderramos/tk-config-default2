@@ -31,10 +31,14 @@ engines.tk-aftereffects.location:
   version: v0.1.4
 
 # Alias
+#engines.tk-alias.location:
+#  type: app_store
+#  name: tk-alias
+#  version: v2.0.4
+
 engines.tk-alias.location:
-  type: app_store
-  name: tk-alias
-  version: v2.0.4
+  type: dev
+  pah: C:\instances\autodesk\shotgunsoftware\tk-alias
 
 # Desktop
 engines.tk-desktop.location:
