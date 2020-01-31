@@ -38,7 +38,7 @@ engines.tk-aftereffects.location:
 
 engines.tk-alias.location:
   type: dev
-  pah: C:\instances\autodesk\shotgunsoftware\tk-alias
+  path: C:\instances\autodesk\shotgunsoftware\tk-alias
 
 # Desktop
 engines.tk-desktop.location:
