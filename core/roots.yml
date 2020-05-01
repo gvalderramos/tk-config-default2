@@ -48,9 +48,9 @@ primary:
 
     # these paths will be populated by the associated local storage in Shotgun
     # at setup time.
-    mac_path:
-    linux_path:
-    windows_path:
+    mac_path:"~/Documents/projects"
+    linux_path:"~/Documents/projects"
+    windows_path:C:/projects
 
     # indicates that this is the default storage root
     default: true
